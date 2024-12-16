@@ -1,3 +1,6 @@
+# Here’s a sample R program to solve a machine learning problem using a decision tree to classify data. 
+
+
 # Install necessary packages
 if (!require("rpart")) install.packages("rpart", dependencies = TRUE)
 if (!require("rpart.plot")) install.packages("rpart.plot", dependencies = TRUE)
