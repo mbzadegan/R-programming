@@ -1,5 +1,4 @@
 # To clean a data frame in R, the process typically involves several steps such as removing missing values, handling duplicates, converting data types, renaming columns, and normalizing values.
-
 # Below is an R program that demonstrates a basic approach to clean a data frame:
 
 
