@@ -1,7 +1,6 @@
 # code example in R that solves a challenging time-series forecasting problem using a long short-term memory (LSTM) neural network. This approach is particularly useful for analyzing and forecasting complex time-series data, such as stock prices or climate patterns, where traditional statistical models may fail.
 
 
-
 # Install required libraries
 if (!require("keras")) install.packages("keras")
 if (!require("tibble")) install.packages("tibble")
