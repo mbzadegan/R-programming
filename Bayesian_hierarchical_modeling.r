@@ -1,5 +1,4 @@
 # Here's an example of a high-level R code that performs a Bayesian hierarchical modeling approach, often used in challenging statistical problems such as estimating individual-level effects from grouped data (e.g., analyzing patient outcomes across hospitals).
-
 # Problem Statement: Estimate the average treatment effect (ATE) across multiple groups (e.g., hospitals) while accounting for group-level variability using Bayesian Hierarchical Modeling.
 
 
