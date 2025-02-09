@@ -1,4 +1,4 @@
-# Here’s a sample R program to solve a machine learning problem using a decision tree to classify data. 
+# Here’s a sample R program to solve a machine learning (ML) problem using a decision tree to classify data. 
 
 
 # Install necessary packages
