@@ -1,4 +1,5 @@
 # Function to generate n random numbers using Blum Blum Shub
+
 blum_blum_shub <- function(n, p, q, seed) {
   # Ensure p and q are congruent to 3 mod 4
   if (p %% 4 != 3 || q %% 4 != 3) {
