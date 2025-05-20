@@ -5,7 +5,7 @@ set.seed(42)  # Set a seed for reproducibility
 # Generate a random series of n numbers
 random_series <- runif(n, min = 0, max = 1000)
 
-# 1. Bubble Sort
+# 1. Bubble Sort method
 bubble_sort <- function(x) {
   for (i in 1:(length(x) - 1)) {
     for (j in 1:(length(x) - i)) {
