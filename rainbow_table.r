@@ -4,7 +4,7 @@ if (!requireNamespace("digest", quietly = TRUE)) {
 }
 library(digest)
 
-# Function to generate a rainbow table
+# Function to generate a rainbow table.
 generate_rainbow_table <- function(n, algorithm = "md5") {
   # Generate sample input data (e.g., numeric strings from 1 to n)
   inputs <- sprintf("%05d", 1:n) # 5-digit zero-padded strings
