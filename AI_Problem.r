@@ -1,4 +1,4 @@
-# Here's an example of R code tackling a challenging AI problem: "Training a neural network to classify handwritten digits using the MNIST dataset." 
+# Here's an example of R code tackling a challenging AI problem: "Training a neural network to classify handwritten digits using the MNIST dataset" 
 # This problem is a classic in AI and machine learning.
 # We will use the keras package in R, which provides an interface to TensorFlow, a powerful AI framework.
 # Install TensorFlow and Keras for R please run:
