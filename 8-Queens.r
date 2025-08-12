@@ -1,4 +1,4 @@
-# Function to check if the position is safe for a queen.
+# Function to check if the position is safe for a queen
 is_safe <- function(board, row, col) {
   # Check the row on the left side
   for (i in 1:(col - 1)) {
