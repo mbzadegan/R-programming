@@ -1,4 +1,4 @@
-#### Please run -->>    install.packages("gpuR")
+#### Please run -->>   install.packages("gpuR")
 
 # Load required libraries
 library(gpuR)
