@@ -5,7 +5,7 @@ if (!requireNamespace("tesseract", quietly = TRUE)) {
 
 library(tesseract)
 
-# Specify the image file path
+# Specify the image file path.
 image_path <- "path_to_your_image.jpg"  # Replace with your image file path
 
 # Load the Tesseract OCR engine
