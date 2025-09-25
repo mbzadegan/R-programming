@@ -2,7 +2,7 @@
 library(readxl)
 
 # Define the file path
-file_path <- "path_to_your_excel_file.xlsx"  # Replace with the actual file path
+file_path <- "path_to_your_excel_file.xlsx"  # Replace with the actual file path.
 
 # Read the Excel file into a data frame
 # Specify the sheet name or index if needed, e.g., sheet = 1
