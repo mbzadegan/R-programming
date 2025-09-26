@@ -1,4 +1,4 @@
-# Data visualiziation from a .CSV excel file in the specific hard disk folder
+# Data visualiziation from a .CSV excel file in the specific hard disk folder.
 
 
 # Load necessary libraries
