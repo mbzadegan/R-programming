@@ -4,7 +4,7 @@ library(JuliaCall)
 # Initialize Julia
 julia_setup()
 
-# Enable Julia's parallel processing
+# Enable Julia's parallel processing.
 julia_command("using Distributed")
 julia_command("addprocs()")  # Add worker processes for parallel computation
 julia_command("
